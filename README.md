@@ -3,7 +3,6 @@
 
 “The objective of this dashboard is to analyze passenger survival patterns in the Titanic dataset based on gender, age, passenger class, embarked location, and fare paid.”
 
-
 ## Questions(KPIs)
 
 - How many passengers were on the Titanic?
